@@ -29,7 +29,7 @@ All animals can make sounds, while only domesticated animals can participate in 
 ## Project Structure
 ```
 src/
-├── Animal.java
+├── AbstractAnimal.java
 ├── Playable.java
 ├── Dog.java
 ├── Cat.java
